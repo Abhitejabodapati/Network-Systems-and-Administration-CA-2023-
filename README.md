@@ -4,5 +4,7 @@ for that we have to deployed two Docker containers into host machine using Ansib
 
 References: 
 Python3-pip on Managed Node - https://linuxize.com/post/how-to-install-pip-on-ubuntu-22.04/
+
 Docker installed on Managed Node - https://docs.docker.com/engine/install/ubuntu/
+
 Youtube - [Deploy Web Application in Docker Container using Ansible](https://youtu.be/u-_uGO95xco?si=kgukamM-HGlrWLSq)
